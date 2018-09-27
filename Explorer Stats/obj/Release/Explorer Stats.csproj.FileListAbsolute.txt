@@ -1,0 +1,9 @@
+z:\my documents\visual studio 2017\Projects\Explorer Stats\Explorer Stats\bin\Release\Explorer Stats.exe.config
+z:\my documents\visual studio 2017\Projects\Explorer Stats\Explorer Stats\bin\Release\Explorer Stats.exe
+z:\my documents\visual studio 2017\Projects\Explorer Stats\Explorer Stats\bin\Release\Explorer Stats.pdb
+z:\my documents\visual studio 2017\Projects\Explorer Stats\Explorer Stats\obj\Release\Explorer_Stats.ExplorerStats.resources
+z:\my documents\visual studio 2017\Projects\Explorer Stats\Explorer Stats\obj\Release\Explorer_Stats.Properties.Resources.resources
+z:\my documents\visual studio 2017\Projects\Explorer Stats\Explorer Stats\obj\Release\Explorer Stats.csproj.GenerateResource.Cache
+z:\my documents\visual studio 2017\Projects\Explorer Stats\Explorer Stats\obj\Release\Explorer Stats.exe
+z:\my documents\visual studio 2017\Projects\Explorer Stats\Explorer Stats\obj\Release\Explorer Stats.pdb
+z:\my documents\visual studio 2017\Projects\Explorer Stats\Explorer Stats\obj\Release\Explorer Stats.csprojResolveAssemblyReference.cache

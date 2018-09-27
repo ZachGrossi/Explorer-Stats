@@ -1,0 +1,8 @@
+z:\my documents\visual studio 2017\Projects\Explorer Stats\Explorer Stats\bin\Debug\Explorer Stats.exe.config
+z:\my documents\visual studio 2017\Projects\Explorer Stats\Explorer Stats\bin\Debug\Explorer Stats.exe
+z:\my documents\visual studio 2017\Projects\Explorer Stats\Explorer Stats\bin\Debug\Explorer Stats.pdb
+z:\my documents\visual studio 2017\Projects\Explorer Stats\Explorer Stats\obj\Debug\Explorer_Stats.ExplorerStats.resources
+z:\my documents\visual studio 2017\Projects\Explorer Stats\Explorer Stats\obj\Debug\Explorer_Stats.Properties.Resources.resources
+z:\my documents\visual studio 2017\Projects\Explorer Stats\Explorer Stats\obj\Debug\Explorer Stats.csproj.GenerateResource.Cache
+z:\my documents\visual studio 2017\Projects\Explorer Stats\Explorer Stats\obj\Debug\Explorer Stats.exe
+z:\my documents\visual studio 2017\Projects\Explorer Stats\Explorer Stats\obj\Debug\Explorer Stats.pdb
